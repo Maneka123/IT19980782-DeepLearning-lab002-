@@ -1,0 +1,9 @@
+002. it seems that increasing the number of hidden units initially improved accuracy, but there was a point where it plateaued or even slightly decreased. This behavior is common when adding more capacity than necessary for a given task, resulting in overfitting or not significantly improving performance.
+Accuracy for 1 hidden units: 67.5 %
+Accuracy for 2 hidden units: 67.25 %
+Accuracy for 3 hidden units: 90.75 %
+Accuracy for 4 hidden units: 90.5 %
+Accuracy for 5 hidden units: 91.25 %
+Accuracy for 20 hidden units: 90.5 %
+Accuracy for 50 hidden units: 90.75 %
+
